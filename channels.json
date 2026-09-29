@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "handle": "test",
+    "name": "test",
+    "url": "https://t.me/s/test",
+    "market_type": "crypto",
+    "weight": 1,
+    "active": true,
+    "notes": "Saf kripto, yüksek hacimli sinyaller. Tersine işlemde ağırlığı yüksek."
+  },
+  {
+    "id": 2,
+    "handle": "test2",
+    "name": "test2",
+    "url": "https://t.me/s/test2",
+    "market_type": "crypto",
+    "weight": 1,
+    "active": true,
+    "notes": "Klasik stop-loss ve TP seviyeleri net olan kripto grubu."
+  }
+]
